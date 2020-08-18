@@ -7,7 +7,7 @@ You can make a custom element with an classic interface using this library.
 ```
 /iclassic
   ...
-/custom-elements
+/list_custom_elements
   |-/[Your Custom Element Name]
     |-[Your Custom Element Name].html
     |-[Your Custom Element Name].css
